@@ -1,0 +1,1 @@
+[link do repl.it](https://replit.com/@tuche?path=folder/tecnicas%202022)
